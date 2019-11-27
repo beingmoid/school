@@ -17,6 +17,6 @@ namespace DAL.Entities
         public DateTime? CreatedTime  { get; set; }
         public DateTime EditedTime { get; set; }
         public int CreatedBy { get; set; }
-        public int EditedBy { get; set;         }    
+        public int EditedBy { get; set; }    
     }
 }
