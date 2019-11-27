@@ -60,8 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DbSchoolContext.cs" />
-    <Compile Include="Entities\User.cs" />
-    <Compile Include="Entities\Usertype.cs" />
+    <Compile Include="Entities\BaseEntity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
