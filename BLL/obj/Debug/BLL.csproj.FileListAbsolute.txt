@@ -9,3 +9,14 @@ c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplic
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\BLL\bin\Debug\DAL.pdb
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\BLL\bin\Debug\WindowsFormsApplication5.pdb
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\BLL\bin\Debug\EntityFramework.xml
+D:\school\BLL\bin\Debug\BLL.dll
+D:\school\BLL\bin\Debug\BLL.pdb
+D:\school\BLL\bin\Debug\DAL.dll
+D:\school\BLL\bin\Debug\WindowsFormsApplication5.exe
+D:\school\BLL\bin\Debug\EntityFramework.dll
+D:\school\BLL\bin\Debug\DAL.pdb
+D:\school\BLL\bin\Debug\WindowsFormsApplication5.pdb
+D:\school\BLL\bin\Debug\EntityFramework.xml
+D:\school\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\school\BLL\obj\Debug\BLL.dll
+D:\school\BLL\obj\Debug\BLL.pdb
