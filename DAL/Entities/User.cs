@@ -10,5 +10,7 @@ namespace DAL.Entities
     {
         public int Id { get; set; }
         public string name { get; set; }
+        public int ponka { get; set; }
+        public int MyProperty { get; set; }
     }
 }
