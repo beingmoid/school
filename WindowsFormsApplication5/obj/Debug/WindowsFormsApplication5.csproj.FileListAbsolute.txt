@@ -6,3 +6,11 @@ c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplic
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+D:\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+D:\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache

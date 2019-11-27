@@ -10,3 +10,15 @@ c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplic
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.dll
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.pdb
+D:\school\DAL\bin\Debug\DAL.dll.config
+D:\school\DAL\bin\Debug\DAL.dll
+D:\school\DAL\bin\Debug\DAL.pdb
+D:\school\DAL\bin\Debug\EntityFramework.dll
+D:\school\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\school\DAL\bin\Debug\System.Data.Common.dll
+D:\school\DAL\bin\Debug\System.Data.SqlClient.dll
+D:\school\DAL\bin\Debug\EntityFramework.xml
+D:\school\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\school\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\school\DAL\obj\Debug\DAL.dll
+D:\school\DAL\obj\Debug\DAL.pdb
