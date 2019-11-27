@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Entities
 {
-    class BaseEntity
+   public class BaseEntity
     {
 
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]

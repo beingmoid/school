@@ -20,3 +20,6 @@ D:\school\BLL\bin\Debug\EntityFramework.xml
 D:\school\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 D:\school\BLL\obj\Debug\BLL.dll
 D:\school\BLL\obj\Debug\BLL.pdb
+c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\BLL\bin\Debug\BLL.dll.config
+c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\BLL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\BLL\bin\Debug\EntityFramework.SqlServer.xml

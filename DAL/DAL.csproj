@@ -61,13 +61,31 @@
   <ItemGroup>
     <Compile Include="DbSchoolContext.cs" />
     <Compile Include="Entities\BaseEntity.cs" />
+    <Compile Include="Entities\Sessions.cs" />
+    <Compile Include="Entities\User.cs" />
+    <Compile Include="Migrations\201911271731294_112720191031.cs" />
+    <Compile Include="Migrations\201911271731294_112720191031.Designer.cs">
+      <DependentUpon>201911271731294_112720191031.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911271748216_112720191048.cs" />
+    <Compile Include="Migrations\201911271748216_112720191048.Designer.cs">
+      <DependentUpon>201911271748216_112720191048.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201911271731294_112720191031.resx">
+      <DependentUpon>201911271731294_112720191031.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911271748216_112720191048.resx">
+      <DependentUpon>201911271748216_112720191048.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
