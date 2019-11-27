@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace DAL.Entities
 {
-    class User
+    class Usertype
     {
         public int Id { get; set; }
-        public string name { get; set; }
     }
 }
