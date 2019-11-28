@@ -26,3 +26,17 @@ c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplic
 D:\school\BLL\bin\Debug\BLL.dll.config
 D:\school\BLL\bin\Debug\EntityFramework.SqlServer.dll
 D:\school\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\M.ANAS\Desktop\school\school\BLL\bin\Debug\BLL.dll.config
+C:\Users\M.ANAS\Desktop\school\school\BLL\bin\Debug\BLL.dll
+C:\Users\M.ANAS\Desktop\school\school\BLL\bin\Debug\BLL.pdb
+C:\Users\M.ANAS\Desktop\school\school\BLL\bin\Debug\DAL.dll
+C:\Users\M.ANAS\Desktop\school\school\BLL\bin\Debug\EntityFramework.dll
+C:\Users\M.ANAS\Desktop\school\school\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\M.ANAS\Desktop\school\school\BLL\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\M.ANAS\Desktop\school\school\BLL\bin\Debug\DAL.pdb
+C:\Users\M.ANAS\Desktop\school\school\BLL\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\M.ANAS\Desktop\school\school\BLL\bin\Debug\EntityFramework.xml
+C:\Users\M.ANAS\Desktop\school\school\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\M.ANAS\Desktop\school\school\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\M.ANAS\Desktop\school\school\BLL\obj\Debug\BLL.dll
+C:\Users\M.ANAS\Desktop\school\school\BLL\obj\Debug\BLL.pdb
