@@ -37,6 +37,7 @@ D:\school\DAL\obj\Debug\DAL.Migrations._11282019547.resources
 D:\school\DAL\obj\Debug\DAL.Migrations._11282019548.resources
 D:\school\DAL\obj\Debug\DAL.Migrations._11282019549.resources
 D:\school\DAL\obj\Debug\DAL.Migrations._11282019552.resources
+<<<<<<< HEAD
 C:\Users\M.ANAS\Desktop\school\school\DAL\bin\Debug\DAL.dll.config
 C:\Users\M.ANAS\Desktop\school\school\DAL\bin\Debug\DAL.dll
 C:\Users\M.ANAS\Desktop\school\school\DAL\bin\Debug\DAL.pdb
@@ -61,3 +62,14 @@ C:\Users\M.ANAS\Desktop\school\school\DAL\obj\Debug\DAL.Migrations._11282019552.
 C:\Users\M.ANAS\Desktop\school\school\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
 C:\Users\M.ANAS\Desktop\school\school\DAL\obj\Debug\DAL.dll
 C:\Users\M.ANAS\Desktop\school\school\DAL\obj\Debug\DAL.pdb
+=======
+C:\Users\me_mo\OneDrive\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.Migrations._11282019440.resources
+C:\Users\me_mo\OneDrive\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.Migrations._11282019519.resources
+C:\Users\me_mo\OneDrive\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.Migrations._11282019550.resources
+C:\Users\me_mo\OneDrive\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.Migrations._11282019542.resources
+C:\Users\me_mo\OneDrive\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.Migrations._11282019546.resources
+C:\Users\me_mo\OneDrive\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.Migrations._11282019547.resources
+C:\Users\me_mo\OneDrive\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.Migrations._11282019548.resources
+C:\Users\me_mo\OneDrive\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.Migrations._11282019549.resources
+C:\Users\me_mo\OneDrive\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.Migrations._11282019552.resources
+>>>>>>> 17ae13cb75216b370f96e73d989236ff28c60e91

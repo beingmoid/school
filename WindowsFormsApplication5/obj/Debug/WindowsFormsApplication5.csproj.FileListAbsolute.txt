@@ -23,6 +23,7 @@ D:\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.dll
 D:\school\WindowsFormsApplication5\bin\Debug\EntityFramework.xml
 D:\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.xml
 D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Login.resources
+<<<<<<< HEAD
 C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
 C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
 C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
@@ -39,3 +40,8 @@ C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\Windows
 C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Signup.resources
 C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Dashboard.resources
 C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Student.Registration.resources
+=======
+J:\study\5th\OOAD\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+J:\study\5th\OOAD\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+J:\study\5th\OOAD\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+>>>>>>> 17ae13cb75216b370f96e73d989236ff28c60e91
