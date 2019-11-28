@@ -9,12 +9,12 @@ namespace DAL
     public partial class DbSchoolContext : DbContext
     {
         public DbSchoolContext()
-            : base("Data Source=DESKTOP-MJ87MHR;Initial Catalog=SchoolDb;Integrated Security=True")
+            : base("Data Source=DESKTOP-M5C4BD6;Initial Catalog=SchoolDb;Integrated Security=True")
         {
         }
 
         public DbSet<User> Users { get; set; }
-        public DbSet<Sessions> Sessions { get; set; }
+        public DbSet<Sessions> Sessions { get; set; }   
         public DbSet<Page> Pages { get; set; }
         public DbSet<UserRoles> UserRoles { get; set; }
         public DbSet<UserType> UserTypes { get; set; }
