@@ -11,6 +11,7 @@ namespace DAL.Entities
         public User()
         {
             this.Sessions = new HashSet<Sessions>();
+            this.UserRoles = new HashSet<UserRoles>();
         }
         public string Firstname { get; set; }
         public string Lastname { get; set; }
@@ -21,6 +22,7 @@ namespace DAL.Entities
         public bool Status { get; set; }
 
         public ICollection<Sessions> Sessions{ get; set; }
+        public ICollection<UserRoles> UserRoles { get; set; }
 
     }
 }
