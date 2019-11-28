@@ -23,3 +23,6 @@ D:\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.dll
 D:\school\WindowsFormsApplication5\bin\Debug\EntityFramework.xml
 D:\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.xml
 D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Login.resources
+J:\study\5th\OOAD\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+J:\study\5th\OOAD\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+J:\study\5th\OOAD\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
