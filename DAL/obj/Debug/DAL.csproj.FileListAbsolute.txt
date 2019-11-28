@@ -25,3 +25,15 @@ D:\school\DAL\obj\Debug\DAL.pdb
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.Migrations._112720191031.resources
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
 c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.Migrations._112720191048.resources
+D:\school\DAL\obj\Debug\DAL.Migrations._112720191031.resources
+D:\school\DAL\obj\Debug\DAL.Migrations._112720191048.resources
+D:\school\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+D:\school\DAL\obj\Debug\DAL.Migrations._11282019440.resources
+D:\school\DAL\obj\Debug\DAL.Migrations._11282019519.resources
+D:\school\DAL\obj\Debug\DAL.Migrations._11282019550.resources
+D:\school\DAL\obj\Debug\DAL.Migrations._11282019542.resources
+D:\school\DAL\obj\Debug\DAL.Migrations._11282019546.resources
+D:\school\DAL\obj\Debug\DAL.Migrations._11282019547.resources
+D:\school\DAL\obj\Debug\DAL.Migrations._11282019548.resources
+D:\school\DAL\obj\Debug\DAL.Migrations._11282019549.resources
+D:\school\DAL\obj\Debug\DAL.Migrations._11282019552.resources
