@@ -1,47 +1,18 @@
-c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
-c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
-c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
-c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
-c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
-c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
-c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
-c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
-D:\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
-D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
-D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
-D:\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
-D:\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
-D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
-D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
-D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
-c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\EntityFramework.dll
-c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.dll
-c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\EntityFramework.xml
-c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.xml
-D:\school\WindowsFormsApplication5\bin\Debug\EntityFramework.dll
-D:\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.dll
-D:\school\WindowsFormsApplication5\bin\Debug\EntityFramework.xml
-D:\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.xml
-D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Login.resources
-<<<<<<< HEAD
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\bin\Debug\EntityFramework.dll
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\bin\Debug\EntityFramework.xml
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Login.resources
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Signup.resources
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Dashboard.resources
-C:\Users\M.ANAS\Desktop\school\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Student.Registration.resources
-=======
-J:\study\5th\OOAD\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
-J:\study\5th\OOAD\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
-J:\study\5th\OOAD\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
->>>>>>> 17ae13cb75216b370f96e73d989236ff28c60e91
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\bin\Debug\EntityFramework.dll
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\bin\Debug\EntityFramework.xml
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Dashboard.resources
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Login.resources
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Signup.resources
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Student.Registration.resources
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.ViewTable.resources
+C:\Users\Iqra Computer\Documents\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Teacher.Registration.resources

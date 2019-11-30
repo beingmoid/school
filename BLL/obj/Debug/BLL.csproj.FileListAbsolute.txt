@@ -40,3 +40,17 @@ C:\Users\M.ANAS\Desktop\school\school\BLL\bin\Debug\EntityFramework.SqlServer.xm
 C:\Users\M.ANAS\Desktop\school\school\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 C:\Users\M.ANAS\Desktop\school\school\BLL\obj\Debug\BLL.dll
 C:\Users\M.ANAS\Desktop\school\school\BLL\obj\Debug\BLL.pdb
+C:\Users\Iqra Computer\Documents\school\BLL\bin\Debug\BLL.dll.config
+C:\Users\Iqra Computer\Documents\school\BLL\bin\Debug\BLL.dll
+C:\Users\Iqra Computer\Documents\school\BLL\bin\Debug\BLL.pdb
+C:\Users\Iqra Computer\Documents\school\BLL\bin\Debug\DAL.dll
+C:\Users\Iqra Computer\Documents\school\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Iqra Computer\Documents\school\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iqra Computer\Documents\school\BLL\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Iqra Computer\Documents\school\BLL\bin\Debug\DAL.pdb
+C:\Users\Iqra Computer\Documents\school\BLL\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Iqra Computer\Documents\school\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Iqra Computer\Documents\school\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iqra Computer\Documents\school\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Iqra Computer\Documents\school\BLL\obj\Debug\BLL.dll
+C:\Users\Iqra Computer\Documents\school\BLL\obj\Debug\BLL.pdb
