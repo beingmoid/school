@@ -15,8 +15,8 @@ namespace DAL.Entities
         [Key]
         public int Id { get; set; }
         public DateTime? CreatedTime  { get; set; }
-        public DateTime EditedTime { get; set; }
-        public int CreatedBy { get; set; }
-        public int EditedBy { get; set; }    
+        public DateTime ? EditedTime { get; set; }
+        public int ? CreatedBy { get; set; }
+        public int ? EditedBy { get; set; }    
     }
 }

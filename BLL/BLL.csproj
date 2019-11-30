@@ -49,16 +49,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DAL\DAL.csproj">
       <Project>{de1fd6af-ab33-4c0f-aed7-9940424c8179}</Project>
       <Name>DAL</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\WindowsFormsApplication5\WindowsFormsApplication5.csproj">
-      <Project>{946e7968-06d7-45ad-91f7-8a3890759418}</Project>
-      <Name>WindowsFormsApplication5</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

@@ -26,3 +26,15 @@ c:\users\me_mo\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplic
 D:\school\BLL\bin\Debug\BLL.dll.config
 D:\school\BLL\bin\Debug\EntityFramework.SqlServer.dll
 D:\school\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\School\school\BLL\bin\Debug\BLL.dll.config
+D:\School\school\BLL\bin\Debug\BLL.dll
+D:\School\school\BLL\bin\Debug\BLL.pdb
+D:\School\school\BLL\bin\Debug\DAL.dll
+D:\School\school\BLL\bin\Debug\EntityFramework.dll
+D:\School\school\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\School\school\BLL\bin\Debug\DAL.pdb
+D:\School\school\BLL\bin\Debug\EntityFramework.xml
+D:\School\school\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\School\school\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\School\school\BLL\obj\Debug\BLL.dll
+D:\School\school\BLL\obj\Debug\BLL.pdb

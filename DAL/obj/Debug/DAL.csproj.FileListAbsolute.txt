@@ -46,3 +46,28 @@ C:\Users\me_mo\OneDrive\Documents\Visual Studio 2015\Projects\WindowsFormsApplic
 C:\Users\me_mo\OneDrive\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.Migrations._11282019548.resources
 C:\Users\me_mo\OneDrive\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.Migrations._11282019549.resources
 C:\Users\me_mo\OneDrive\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\DAL\obj\Debug\DAL.Migrations._11282019552.resources
+D:\School\school\DAL\bin\Debug\DAL.dll.config
+D:\School\school\DAL\bin\Debug\DAL.dll
+D:\School\school\DAL\bin\Debug\DAL.pdb
+D:\School\school\DAL\bin\Debug\EntityFramework.dll
+D:\School\school\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\School\school\DAL\bin\Debug\System.Data.Common.dll
+D:\School\school\DAL\bin\Debug\System.Data.SqlClient.dll
+D:\School\school\DAL\bin\Debug\EntityFramework.xml
+D:\School\school\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\School\school\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\School\school\DAL\obj\Debug\DAL.Migrations._112720191031.resources
+D:\School\school\DAL\obj\Debug\DAL.Migrations._112720191048.resources
+D:\School\school\DAL\obj\Debug\DAL.Migrations._11282019440.resources
+D:\School\school\DAL\obj\Debug\DAL.Migrations._11282019519.resources
+D:\School\school\DAL\obj\Debug\DAL.Migrations._11282019550.resources
+D:\School\school\DAL\obj\Debug\DAL.Migrations._11282019542.resources
+D:\School\school\DAL\obj\Debug\DAL.Migrations._11282019546.resources
+D:\School\school\DAL\obj\Debug\DAL.Migrations._11282019547.resources
+D:\School\school\DAL\obj\Debug\DAL.Migrations._11282019548.resources
+D:\School\school\DAL\obj\Debug\DAL.Migrations._11282019549.resources
+D:\School\school\DAL\obj\Debug\DAL.Migrations._11282019552.resources
+D:\School\school\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+D:\School\school\DAL\obj\Debug\DAL.dll
+D:\School\school\DAL\obj\Debug\DAL.pdb
+D:\School\school\DAL\obj\Debug\DAL.Migrations._1212019405.resources

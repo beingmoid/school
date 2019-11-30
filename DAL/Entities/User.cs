@@ -22,7 +22,7 @@ namespace DAL.Entities
         public string Telephone { get; set; }
         public bool Status { get; set; }
 
-        public ICollection<Sessions> Sessions{ get; set; }
+        public ICollection<Sessions>  Sessions{ get; set; }
         public ICollection<UserRoles> UserRoles { get; set; }
         public ICollection<UserSelectedType> UserSelectedType { get; set; }
 
