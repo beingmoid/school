@@ -8,7 +8,12 @@ namespace DAL.Entities
 {
      public class Grade:BaseEntity
     {
+        public Grade()
+        {
+            this.Section = new HashSet<Section>();
+        }
         public string GradeName { get; set; }
         public string Class { get; set; }
+        public ICollection<Section> Section { get; set; }
     }
 }

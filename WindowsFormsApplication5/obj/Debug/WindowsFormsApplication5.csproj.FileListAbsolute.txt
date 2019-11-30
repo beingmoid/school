@@ -26,3 +26,13 @@ D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Login
 J:\study\5th\OOAD\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
 J:\study\5th\OOAD\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
 J:\study\5th\OOAD\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+J:\study\5th\OOAD\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+J:\study\5th\OOAD\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+J:\study\5th\OOAD\school\WindowsFormsApplication5\bin\Debug\EntityFramework.dll
+J:\study\5th\OOAD\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.dll
+J:\study\5th\OOAD\school\WindowsFormsApplication5\bin\Debug\EntityFramework.xml
+J:\study\5th\OOAD\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.xml
+J:\study\5th\OOAD\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+J:\study\5th\OOAD\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Login.resources
+J:\study\5th\OOAD\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+J:\study\5th\OOAD\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
