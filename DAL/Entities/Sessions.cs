@@ -12,5 +12,6 @@ namespace DAL.Entities
         public int UserId { get; set; }
         public DateTime ? TimeLoggedIn { get; set; }
         public User User { get; set; }
+
     }
 }
