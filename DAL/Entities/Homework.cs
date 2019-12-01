@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace DAL.Entities
 {
-    public class Homework: BaseEntity
+   public class Homework:BaseEntity
     {
-        public int CourseID { get; set; }
-        public int StudentID { get; set; }
-        public decimal Marks { get; set; }
-        public decimal Total { get; set; }
-        public Course Course { get; set; }
+        public int Total { get; set; }
+        public int marks { get; set; }
         public Student Student { get; set; }
+        public int StudentID { get; set; }
+        public int CourseID { get; set; }
+        public Course Course { get; set; }
     }
 }

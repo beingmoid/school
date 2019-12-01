@@ -6,18 +6,10 @@ using System.Threading.Tasks;
 
 namespace DAL.Entities
 {
-    public class Section : BaseEntity
+   public  class Section:BaseEntity
     {
-        public Section()
-        {
-            this.StudentsInSection = new HashSet<StudentsInSection>();
-        }
-        public string SectionName { get; set; }
-        public int GradeID { get; set; }
+        public string Name { get; set; }
         public Grade Grade { get; set; }
-        
-        public ICollection<StudentsInSection> StudentsInSection { get; set; }
-
-
+        public int Gradeid { get; set; }
     }
 }

@@ -8,6 +8,10 @@ namespace DAL.Entities
 {
     public class Staff:BaseEntity
     {
+        public Staff()
+        {
+            this.TeacherCourses = new HashSet<TeacherCourses>();
+        }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string FathersName { get; set; }
@@ -17,6 +21,7 @@ namespace DAL.Entities
         public DateTime HiringDate { get; set; }
         public StaffType StaffType { get; set; }
         public int StaffTypeId { get; set; }
+        public ICollection<TeacherCourses> TeacherCourses { get; set; }
 
 
     }

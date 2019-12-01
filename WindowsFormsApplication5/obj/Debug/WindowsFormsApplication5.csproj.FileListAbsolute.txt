@@ -22,7 +22,6 @@ D:\school\WindowsFormsApplication5\bin\Debug\EntityFramework.dll
 D:\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.dll
 D:\school\WindowsFormsApplication5\bin\Debug\EntityFramework.xml
 D:\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.xml
-D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Login.resources
 D:\School\school\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
 D:\School\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
 D:\School\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
@@ -42,3 +41,10 @@ D:\School\school\WindowsFormsApplication5\bin\Debug\BLL.pdb
 D:\School\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
 D:\School\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Dashboard.resources
 D:\School\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.UserForm.resources
+D:\school\WindowsFormsApplication5\bin\Debug\BLL.dll
+D:\school\WindowsFormsApplication5\bin\Debug\DAL.dll
+D:\school\WindowsFormsApplication5\bin\Debug\BLL.pdb
+D:\school\WindowsFormsApplication5\bin\Debug\DAL.pdb
+D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Dashboard.resources
+D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+D:\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.UserForm.resources

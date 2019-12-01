@@ -62,17 +62,61 @@
     <Compile Include="DbSchoolContext.cs" />
     <Compile Include="Entities\BaseEntity.cs" />
     <Compile Include="Entities\Course.cs" />
+    <Compile Include="Entities\Fees.cs" />
     <Compile Include="Entities\Grade.cs" />
+    <Compile Include="Entities\Homework.cs" />
     <Compile Include="Entities\Page.cs" />
+    <Compile Include="Entities\Section.cs" />
     <Compile Include="Entities\Sessions.cs" />
     <Compile Include="Entities\Staff.cs" />
     <Compile Include="Entities\StaffType.cs" />
     <Compile Include="Entities\Student.cs" />
+    <Compile Include="Entities\StudentInSection.cs" />
+    <Compile Include="Entities\TeacherCourses.cs" />
+    <Compile Include="Entities\Test.cs" />
     <Compile Include="Entities\User.cs" />
     <Compile Include="Entities\UserRoles.cs" />
-    <Compile Include="Migrations\201912011653114_1212019952.cs" />
-    <Compile Include="Migrations\201912011653114_1212019952.Designer.cs">
-      <DependentUpon>201912011653114_1212019952.cs</DependentUpon>
+    <Compile Include="Entities\UserSelectedType.cs" />
+    <Compile Include="Entities\UserType.cs" />
+    <Compile Include="Migrations\201912011904219_12220191204.cs" />
+    <Compile Include="Migrations\201912011904219_12220191204.Designer.cs">
+      <DependentUpon>201912011904219_12220191204.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912011923400_12220191223.cs" />
+    <Compile Include="Migrations\201912011923400_12220191223.Designer.cs">
+      <DependentUpon>201912011923400_12220191223.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912011940293_12220191224.cs" />
+    <Compile Include="Migrations\201912011940293_12220191224.Designer.cs">
+      <DependentUpon>201912011940293_12220191224.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912011954052_12220191225.cs" />
+    <Compile Include="Migrations\201912011954052_12220191225.Designer.cs">
+      <DependentUpon>201912011954052_12220191225.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912011958472_12220191226.cs" />
+    <Compile Include="Migrations\201912011958472_12220191226.Designer.cs">
+      <DependentUpon>201912011958472_12220191226.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912012007469_12220191227.cs" />
+    <Compile Include="Migrations\201912012007469_12220191227.Designer.cs">
+      <DependentUpon>201912012007469_12220191227.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912012017423_12220191228.cs" />
+    <Compile Include="Migrations\201912012017423_12220191228.Designer.cs">
+      <DependentUpon>201912012017423_12220191228.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912012019264_12220191229.cs" />
+    <Compile Include="Migrations\201912012019264_12220191229.Designer.cs">
+      <DependentUpon>201912012019264_12220191229.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912012024276_12220191230.cs" />
+    <Compile Include="Migrations\201912012024276_12220191230.Designer.cs">
+      <DependentUpon>201912012024276_12220191230.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912012032100_12220191231.cs" />
+    <Compile Include="Migrations\201912012032100_12220191231.Designer.cs">
+      <DependentUpon>201912012032100_12220191231.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -82,8 +126,35 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201912011653114_1212019952.resx">
-      <DependentUpon>201912011653114_1212019952.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201912011904219_12220191204.resx">
+      <DependentUpon>201912011904219_12220191204.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912011923400_12220191223.resx">
+      <DependentUpon>201912011923400_12220191223.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912011940293_12220191224.resx">
+      <DependentUpon>201912011940293_12220191224.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912011954052_12220191225.resx">
+      <DependentUpon>201912011954052_12220191225.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912011958472_12220191226.resx">
+      <DependentUpon>201912011958472_12220191226.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912012007469_12220191227.resx">
+      <DependentUpon>201912012007469_12220191227.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912012017423_12220191228.resx">
+      <DependentUpon>201912012017423_12220191228.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912012019264_12220191229.resx">
+      <DependentUpon>201912012019264_12220191229.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912012024276_12220191230.resx">
+      <DependentUpon>201912012024276_12220191230.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912012032100_12220191231.resx">
+      <DependentUpon>201912012032100_12220191231.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
