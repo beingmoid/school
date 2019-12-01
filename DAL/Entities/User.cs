@@ -12,7 +12,6 @@ namespace DAL.Entities
         {
             this.Sessions = new HashSet<Sessions>();
             this.UserRoles = new HashSet<UserRoles>();
-            this.UserSelectedType = new HashSet<UserSelectedType>();
         }
         public string Firstname { get; set; }
         public string Lastname { get; set; }
@@ -24,7 +23,7 @@ namespace DAL.Entities
 
         public ICollection<Sessions>  Sessions{ get; set; }
         public ICollection<UserRoles> UserRoles { get; set; }
-        public ICollection<UserSelectedType> UserSelectedType { get; set; }
+        
 
     }
 }

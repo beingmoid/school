@@ -33,10 +33,12 @@ D:\School\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.dl
 D:\School\school\WindowsFormsApplication5\bin\Debug\EntityFramework.xml
 D:\School\school\WindowsFormsApplication5\bin\Debug\EntityFramework.SqlServer.xml
 D:\School\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
-D:\School\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.Login.resources
 D:\School\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
 D:\School\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
 D:\School\school\WindowsFormsApplication5\bin\Debug\DAL.dll
 D:\School\school\WindowsFormsApplication5\bin\Debug\DAL.pdb
 D:\School\school\WindowsFormsApplication5\bin\Debug\BLL.dll
 D:\School\school\WindowsFormsApplication5\bin\Debug\BLL.pdb
+D:\School\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+D:\School\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Dashboard.resources
+D:\School\school\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Base.UserForm.resources
